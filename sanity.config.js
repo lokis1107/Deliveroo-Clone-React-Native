@@ -7,8 +7,8 @@ export default defineConfig({
   name: 'default',
   title: 'Sanity Deliveroo',
 
-  projectId: 'ieqxr836',
-  dataset: 'production',
+  projectId: 'Implementing your project id',
+  dataset: 'Implementing your project dataset',
 
   plugins: [deskTool(), visionTool()],
 
